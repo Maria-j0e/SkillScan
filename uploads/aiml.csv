@@ -1,0 +1,139 @@
+# CSV-File created with merge-csv.com
+# -----------------------------------------------------------
+
+id,topic,level,question,option_a,option_b,option_c,option_d,answer_letter,answer_text
+calculus,calculus,1,The derivative of a constant is:,1,The same constant,0,Undefined,C,0
+calculus,calculus,1,The derivative represents the:,Height of a curve,Rate of change or slope,Area under the curve,Constant value,B,Rate of change or slope
+calculus,calculus,1,The integral of a function gives:,Rate of change,Area under the curve,Constant slope,Limit of the function,B,Area under the curve
+calculus,calculus,1,"If f(x) = x^2, then f'(x)=:",2x,x²,x,0,A,2x
+calculus,calculus,1,The integral of x dx is:,x² + C,½x² + C,2x + C,ln(x) + C,B,½x² + C
+calculus,calculus,1,"In calculus, “dx” represents:",A small change in x,Derivative of x,Division by x,Integration constant,A,A small change in x
+calculus,calculus,1,"If slope = 0, the function is:",Constant,Increasing,Decreasing,Undefined,A,Constant
+calculus,calculus,1,Integration is the reverse process of:,Differentiation,Multiplication,Exponentiation,Simplification,A,Differentiation
+calculus,calculus,1,The derivative of sinx is:,sin x,cos x,tan x,cot x,B,cos x
+calculus,calculus,1,The derivative of cosx is:,sin x,sin x,tan x,cos x,A,âˆ’sin x
+calculus,calculus,1,"If f(x) = 3x^3, then f'(x)=:",3x²,9x²,6x²,x³,B,9x²
+calculus,calculus,1,The integral of a constant 5 is:,5x + C,5 + C,x + 5,5/x + C,A,5x + C
+calculus,calculus,1,The slope of the line y=2x+3 is:,3,0,2,1,C,2
+calculus,calculus,1,The symbol  ?  stands for:,Limit,Integral,Derivative,Function,B,Integral
+calculus,calculus,1,"If f(x) = x^3, then df/dx=:",x²,3x²,2x,x³,B,3x²
+calculus,calculus,2,The derivative of 5x^2 + 2x is:,10x + 2,5x + 2,2x + 5,10x²,A,10x + 2
+calculus,calculus,2,The integral of 2x dx is:,x² + C,2x² + C,x + C,ln(x) + C,A,x² + C
+calculus,calculus,2,The point where the derivative equals zero may indicate:,A maximum or minimum,An inflection only,Always a maximum,Always a minimum,A,A maximum or minimum
+calculus,calculus,2,The derivative of e^x is:,x·e^x,e^x,1/e^x,e^{x+1},B,e^x
+calculus,calculus,2,The derivative of x^4 + 2x^3 + x is:,4x³ + 6x² + 1 ,4x³ + 3x² + x,3x² + 2x + 1 ,x³ + 2x² + 1,A,4x³ + 6x² + 1
+calculus,calculus,2,The integral of 3x^2 dx is:,3x³ + C,x³ + C,½x³ + C,x² + C,B,x³ + C
+calculus,calculus,2,The derivative of lnx is:,ln(x),1/x,e^x,x,B,1/x
+calculus,calculus,2,The integral of 1/x dx is:,x² + C,1/x + C,ln|x| + C,e^x + C,C,ln|x| + C
+calculus,calculus,2,The slope of a tangent line is found by:,Differentiating the function,Integrating the function,Simplifying the function,Dividing by x,A,Differentiating the function
+calculus,calculus,2,"For f(x)= x^2 + 4x + 4, the minimum occurs at:",x = 0,x = 4,x = -2,x = 2,C,x = -2
+calculus,calculus,2,The limit of (x^2 - 1)/(x - 1) as x?1is:,1,0,2,Undefined,C,2
+calculus,calculus,2,The derivative of (x² + 3x + 2) is:,2x + 3,x² + 3,3x + 2,2x² + 3,A,2x + 3
+calculus,calculus,2,The constant  “+C” in integration represents:,A fixed constant,Zero,Arbitrary constant of integration,Constant of differentiation,C,Arbitrary constant of integration
+calculus,calculus,2,The derivative of a linear function is always:,Constant,Variable,Zero,Undefined,A,Constant
+calculus,calculus,2,"If speed = ds/dt, then distance is obtained by:",Integrating speed over time,Differentiating speed,Dividing speed by time,Multiplying by acceleration,A,Integrating speed over time
+Machine Learning_1,Machine Learning,1,Machine Learning is a branch of:,Mathematics,Data Entry,Robotics only,Artificial Intelligence,3
+Machine Learning_2,Machine Learning,1,Machine Learning algorithms learn from:,Rules and logic only,Random guesses,Experience or data,Hardware circuits,2
+Machine Learning_3,Machine Learning,1,"In ML, a dataset is:",A model's output,A collection of data used for training and testing,A program file,A neural network,1
+Machine Learning_4,Machine Learning,1,The main goal of ML is to:,Hard-code all rules,Learn automatically from data,Replace mathematics,Remove data from systems,1
+Machine Learning_5,Machine Learning,1,Which of the following is a common use of ML?,Copying files,Spam detection in emails,Writing essays,File compression,1
+Machine Learning_6,Machine Learning,1,Supervised learning uses:,Unlabeled data,Data with labels or known outputs,Random data only,No data,1
+Machine Learning_7,Machine Learning,1,Unsupervised learning works with:,Data that has no labels,Data with both inputs and outputs,Only one data point,Predefined categories,0
+Machine Learning_8,Machine Learning,1,"In supervised learning, data includes:",Only input variables,Only target outputs,Both inputs and outputs,No variables,2
+Machine Learning_9,Machine Learning,1,A “model” in ML means:,A mathematical system that learns patterns,A human instructor,A robot,A dataset,0
+Machine Learning_10,Machine Learning,1,Which of the following is a type of supervised learning?,Clustering,Regression,Association,Pattern mining,1
+Machine Learning_11,Machine Learning,1,Classification problems deal with:,Predicting categories or labels,Predicting continuous numbers,Sorting by alphabet,Removing outliers,0
+Machine Learning_12,Machine Learning,1,Regression is used for predicting:,Text,Continuous numeric values,Labels only,Binary categories,1
+Machine Learning_13,Machine Learning,1,Grouping similar data points together is known as:,Classification,Regression,Clustering,Labeling,2
+Machine Learning_14,Machine Learning,1,The dataset used to check the performance of a model is called:,Training set,Validation set,Test set,Feature set,2
+Machine Learning_15,Machine Learning,2,The data used to train a machine learning model is called:,Input set,Feature set,Output set,Training set,3
+Machine Learning_16,Machine Learning,2,"In machine learning, a feature refers to:",The output of a model,The input variable or attribute,The final prediction,The learning algorithm,1
+Machine Learning_17,Machine Learning,2,The label in a dataset refers to:,Input variable,Target or output variable,Random value,Feature name,1
+Machine Learning_18,Machine Learning,2,Overfitting occurs when:,A model is too simple to learn patterns,The model performs poorly on training data,The model memorizes training data instead of learning,The model has too few parameters,2
+Machine Learning_19,Machine Learning,2,Underfitting occurs when:,The model is too complex,The model performs well on test data,The model fails to capture patterns in the training data,The dataset is too large,2
+Machine Learning_20,Machine Learning,2,An example of supervised learning is:,Customer segmentation,Email spam detection,Market basket analysis,Word clustering,1
+Machine Learning_21,Machine Learning,2,An example of unsupervised learning is:,Predicting house prices,Clustering similar customers,Sentiment analysis,Forecasting temperature,1
+Machine Learning_22,Machine Learning,2,Reinforcement learning uses:,Rewards and penalties to guide decisions,Labeled data,Mathematical proofs,Random guessing,0
+Machine Learning_23,Machine Learning,2,Accuracy measures:,The number of predictions made,The proportion of correct predictions,The model’s training time,The dataset size,1
+Machine Learning_24,Machine Learning,2,A loss function measures:,The speed of the model,The number of inputs,How far predictions are from actual values,The amount of memory used,2
+Machine Learning_25,Machine Learning,2,The algorithm that separates data using a hyperplane is:,Decision Tree,K-Means,Naive Bayes,Support Vector Machine (SVM),3
+Machine Learning_26,Machine Learning,2,A decision tree splits data based on:,Random noise,The mean of labels,Features that best reduce impurity,The model type,2
+Machine Learning_27,Machine Learning,2,Neural networks are inspired by:,Human brain neurons and their connections,Computer processors,Electric circuits,Mathematical theorems,0
+Machine Learning_28,Machine Learning,2,The process of repeatedly improving model accuracy is called:,Evaluation,Training,Tuning,Testing,1
+Machine Learning_29,Machine Learning,2,A popular Python library used for ML is:,Tailwind CSS,React,Scikit-learn,Power BI,2
+Machine Learning_30,Machine Learning,2,The first step in any ML workflow is:,Train the model,Deploy the model,Collect and clean data,Evaluate accuracy,2
+_Python MCQ_1,,_Python MCQ,1,What is Python?,Snake,Programming language,Browser,Game,1
+_Python MCQ_2,,_Python MCQ,1,Which symbol is used for comments in Python?,//,/* */,#,--,2
+_Python MCQ_3,,_Python MCQ,1,Which function displays output?,echo(),print(),show(),display(),1
+_Python MCQ_4,,_Python MCQ,1,How do you take user input?,scan(),read(),input(),get(),2
+_Python MCQ_5,,_Python MCQ,1,Which operator adds two numbers?,+,-,*,/,0
+_Python MCQ_6,,_Python MCQ,1,What is the output of print(2 + 3 * 4)?,20,14,24,18,1
+_Python MCQ_7,,_Python MCQ,1,What keyword starts a function?,func,def,function,define,1
+_Python MCQ_8,,_Python MCQ,1,Which data type stores text?,int,float,str,list,2
+_Python MCQ_9,,_Python MCQ,1,"What is the result of len(""hi"")?",1,2,3,Error,1
+_Python MCQ_10,,_Python MCQ,1,What is the correct way to create a variable?,var x = 5,x = 5,int x = 5,declare x,1
+_Python MCQ_11,,_Python MCQ,1,What is the output of print(10//3)?,3.33,3,4,Error,1
+_Python MCQ_12,,_Python MCQ,1,Which of these are logical operators?,"and, or, not","+, -, *","if, else","==, !=",0
+_Python MCQ_13,,_Python MCQ,1,Which function shows data type?,type(),dtype(),data(),typeof(),0
+_Python MCQ_14,,_Python MCQ,1,How do you write multi-line comments?,# â€¦ #,""""""" â€¦ """"""",/* â€¦ */,// â€¦ //,1
+_Python MCQ_15,,_Python MCQ,1,"What will print(""Python"" * 2) output?",PythonPython,Error,2Python,None,0
+_Python MCQ_16,,_Python MCQ,2,Which statement checks conditions?,loop,if,def,class,1
+_Python MCQ_17,,_Python MCQ,2,What keyword ends a loop early?,exit,break,stop,return,1
+_Python MCQ_18,,_Python MCQ,2,What keyword skips the rest of a loop iteration?,skip,pass,continue,jump,2
+_Python MCQ_19,,_Python MCQ,2,"What is the output of [1, 2] + [3, 4]?","[1, 2, 3, 4]","[4, 6]",Error,None,0
+_Python MCQ_20,,_Python MCQ,2,Which function counts elements in a list?,len(),count(),size(),num(),0
+_Python MCQ_21,,_Python MCQ,2,What does list.append(5) do?,Adds 5 at end,Adds 5 at start,Removes 5,None,0
+_Python MCQ_22,,_Python MCQ,2,"What is the output of [1,2,3]*2?","[1,2,3,1,2,3]","[2,4,6]",Error,None,0
+_Python MCQ_23,,_Python MCQ,2,Which function sorts a list?,order(),sort(),arrange(),sequence(),1
+_Python MCQ_24,,_Python MCQ,2,Which data type allows duplicates?,Set,List,Dictionary,None,1
+_Python MCQ_25,,_Python MCQ,2,Which keyword is used inside a function to send output?,print,return,output,yield,1
+_Python MCQ_26,,_Python MCQ,2,How do you check if 5 is greater than 3?,5 > 3,5 gt 3,"greater(5,3)","if(5,3)",0
+_Python MCQ_27,,_Python MCQ,2,"What does sum([1,2,3]) return?",6,[6],123,Error,0
+_Python MCQ_28,,_Python MCQ,2,Which keyword defines a loop?,for,def,while,A and C,3
+_Python MCQ_29,,_Python MCQ,2,How to repeat code 5 times using range?,for i in range(5):,while i < 5:,repeat(5),"range(1,5)",0
+_Python MCQ_30,,_Python MCQ,2,"What is the output of bool("""")?",TRUE,FALSE,,,1
+_Python MCQ_31,,_Python MCQ,3,Which keyword defines a class?,def, class,object,type,1
+_Python MCQ_31,,_Python MCQ,3,What does self represent?,Object,Class,Module,None,0
+_Python MCQ_32,,_Python MCQ,3,What is __init__()?,Constructor,Function,Destructor,None,0
+_Python MCQ_33,,_Python MCQ,3,How to import module math?,use math,import math,include math,require math,1
+_Python MCQ_34,,_Python MCQ,3,How to open a file for writing?,"open('f.txt','w')",file.open('f.txt'),write('f.txt'),None,0
+_Python MCQ_35,,_Python MCQ,3,Which reads all lines?,read(),readline(),readlines(),All,3
+_Python MCQ_36,,_Python MCQ,3,What does super() do?,Calls parent class,Ends function,Clears data,None,0
+_Python MCQ_37,,_Python MCQ,3,How to close a file?,close(),file.close(),end(),stop(),1
+_Python MCQ_38,,_Python MCQ,3,Which function checks type?,type(),class(),info(),data(),0
+_Python MCQ_39,,_Python MCQ,3,What is an object?,Instance of class,Variable,Loop,Module,0
+_Python MCQ_40,,_Python MCQ,3,What does try-except handle?,Loops,Errors,Classes,Imports,1
+_Python MCQ_41,,_Python MCQ,3,Which function gives current working directory?,os.getcwd(),sys.path(),path.show(),None,0
+_Python MCQ_42,,_Python MCQ,3,How to delete a variable?,del var,delete var,remove(var),clear(var),0
+_Python MCQ_43,,_Python MCQ,3,What is the return type of range()?,List,Range object,Tuple,Int,1
+_Python MCQ_44,,_Python MCQ,4,Which keyword creates a generator?,yield,return,pass,gen,0
+_Python MCQ_45,,_Python MCQ,4,Which library is used for plotting graphs?,numpy,matplotlib,pandas,scipy,1
+_Python MCQ_46,,_Python MCQ,4,What does plt.show() do?,Displays graph,Saves file,Clears graph,None,0
+_Python MCQ_47,,_Python MCQ,4,Which command plots a line graph?,plt.plot(),plt.line(),sns.line(),plt.bar(),0
+_Python MCQ_48,,_Python MCQ,4,Which function reads a CSV?,pd.read_csv(),csv.read(),pd.load_csv(),pd.read(),0
+_Python MCQ_49,,_Python MCQ,4,Which function shows top rows?,df.head(),df.tail(),df.sample(),df.show(),0
+_Python MCQ_50,,_Python MCQ,4,Which returns correlation matrix?,df.corr(),df.describe(),df.info(),df.sum(),0
+_Python MCQ_51,,_Python MCQ,4,What does df.info() show?,Data types,Summary,Graph,Count,0
+_Python MCQ_52,,_Python MCQ,4,Which removes nulls?,df.dropna(),df.clean(),df.remove(),df.clear(),0
+_Python MCQ_53,,_Python MCQ,4,Which merges DataFrames?,pd.merge(),pd.concat(),pd.join(),All,3
+_Python MCQ_54,,_Python MCQ,4,Which plots bar chart?,plt.bar(),plt.plot(),sns.lineplot(),None,0
+_Python MCQ_55,,_Python MCQ,4,How to read Excel file?,pd.read_excel(),pd.read_csv(),pd.read(),None,0
+_Python MCQ_56,,_Python MCQ,4,Which command counts missing values?,df.isnull().sum(),df.count(),df.missing(),None,0
+_Python MCQ_57,,_Python MCQ,4,What does df.describe() do?,Gives summary stats,Shows head,Cleans data,None,0
+_Python MCQ_58,,_Python MCQ,4,Which function renames columns?,df.rename(),df.columns(),df.edit(),None,0
+_Python MCQ_59,,_Python MCQ,4,What is index in pandas?,Row labels,Column names,Values,None,0
+_Python MCQ_60,,_Python MCQ,5,Which library is best for interactive visuals?,seaborn,matplotlib,plotly,numpy,2
+_Python MCQ_61,,_Python MCQ,5,Which regression is linear?,Logistic,Linear,Ridge,Lasso,1
+_Python MCQ_62,,_Python MCQ,5,Which creates subplots?,plt.subplots(),plt.plot(),plt.subplot(),sns.grid(),0
+_Python MCQ_63,,_Python MCQ,5,Which library is for ML models?,pandas,scikit-learn,matplotlib,seaborn,1
+_Python MCQ_64,,_Python MCQ,5,What does .fit() do?,Trains model,Tests,Saves,Visualizes,0
+_Python MCQ_65,,_Python MCQ,5,What splits data into train & test?,train_test_split(),split_data(),model.split(),divide(),0
+_Python MCQ_66,,_Python MCQ,5,What is cross-validation for?,Model evaluation,Cleaning data,Plotting,None,0
+_Python MCQ_67,,_Python MCQ,5,What does normalization do?,Scales data,Sorts,Removes nulls,None,0
+_Python MCQ_68,,_Python MCQ,5,What is a confusion matrix for?,Evaluate classification,Visualize scatter,Normalize data,None,0
+_Python MCQ_69,,_Python MCQ,5,What is Logistic Regression used for?,Classification,Regression,Clustering,Summarization,0
+_Python MCQ_70,,_Python MCQ,5,Which algorithm uses decision trees?,Random Forest,SVM,Logistic Regression,Naive Bayes,0
+_Python MCQ_71,,_Python MCQ,5,What is accuracy_score used for?,Model evaluation,Data cleaning,Sorting,None,0
+_Python MCQ_72,,_Python MCQ,5,Which library supports 3D plots?,seaborn,plotly,pandas,numpy,1
+_Python MCQ_73,,_Python MCQ,5,What is a heatmap used for?,Show correlation visually,Text display,Numeric table,None,0
+_Python MCQ_74,,_Python MCQ,5,Which metric measures regression error?,RMSE,accuracy_score,confusion matrix,correlation,0

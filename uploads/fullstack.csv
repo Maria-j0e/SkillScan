@@ -1,0 +1,124 @@
+id,course,topic,level,question,option1,option2,option3,option4,answer_index
+Web Fundamentals-HTML & CSS_1,,Web Fundamentals-HTML & CSS,1,"
+HTML stands for:",Hyperlinks and Text Markup Language,Hyper Text Markup Language,"Home Tool
+Markup Language","Hyper Transfer Markup Language
+Correct",1
+Web Fundamentals-HTML & CSS_2,,Web Fundamentals-HTML & CSS,1,The latest version of HTML is:,HTML3,HTML4,HTML5,HTML 6,2
+Web Fundamentals-HTML & CSS_3,,Web Fundamentals-HTML & CSS,1, Which tag is used to display the largest heading?,<h6>,<h1>,<head>,"<title>
+",1
+Web Fundamentals-HTML & CSS_4,,Web Fundamentals-HTML & CSS,1, The correct HTML element for inserting a line break is:,<lb>,<break>,<br>,"<line>
+",2
+Web Fundamentals-HTML & CSS_5,,Web Fundamentals-HTML & CSS,1,CSS stands for:,Creative Style Sheets,Cascading Style Sheets,Computer Style Sheets,"Colorful
+Style Sheets
+",1
+Web Fundamentals-HTML & CSS_6,,Web Fundamentals-HTML & CSS,1,Which tag is used to insert an image in HTML?,<src>,<img>,<image>,"<picture>
+",1
+Web Fundamentals-HTML & CSS_7,,Web Fundamentals-HTML & CSS,1,Which attribute specifies the link destination in an anchor tag?,ref,href,link,"src
+",1
+Web Fundamentals-HTML & CSS_8,,Web Fundamentals-HTML & CSS,1,The <title> tag is placed inside which element?,<body>,<head>,<footer>,"<html>
+",1
+Web Fundamentals-HTML & CSS_9,,Web Fundamentals-HTML & CSS,1,HTML comments start with:,//,/*,<!--,"#
+",2
+Web Fundamentals-HTML & CSS_10,,Web Fundamentals-HTML & CSS,1,Which CSS property changes the background color?,color,bgcolor,background-color,"background-style
+",2
+Web Fundamentals-HTML & CSS_11,,Web Fundamentals-HTML & CSS,1,Which tag creates a hyperlink?,<a>,<link>,<href>,"<url>
+",0
+Web Fundamentals-HTML & CSS_12,,Web Fundamentals-HTML & CSS,1,To make text bold in HTML we use:,<strong>,<bold>,<bld>,"<text>
+",0
+Web Fundamentals-HTML & CSS_13,,Web Fundamentals-HTML & CSS,1,Which attribute gives alternative text for an image?,title,alt,name,"desc
+",1
+Web Fundamentals-HTML & CSS_14,,Web Fundamentals-HTML & CSS,1,CSS rules are written inside:,Curly braces { },Parentheses ( ),Angle brackets < >,"Quotes "" """,0
+Web Fundamentals-HTML & CSS_15,,Web Fundamentals-HTML & CSS,1,The default alignment of text in HTML is:,Left,Center,Right,"Justify
+",0
+Web Fundamentals-HTML & CSS_16,,Web Fundamentals-HTML & CSS,2,"
+ Which tag defines a table row?",<td>,<tr>,<th>,"<row>
+",1
+Web Fundamentals-HTML & CSS_17,,Web Fundamentals-HTML & CSS,2,Which tag defines a list with bullets?,<ol>,<ul>,<li>,"<list>
+",1
+Web Fundamentals-HTML & CSS_18,,Web Fundamentals-HTML & CSS,2,"The <input type=""password""> field:",Shows stars instead of text,Displays plain text,Opens a link,"Uploads files
+",0
+Web Fundamentals-HTML & CSS_19,,Web Fundamentals-HTML & CSS,2,"To link an external CSS file, which tag is used?",<css>,<style>,<link>,"<script>
+",2
+Web Fundamentals-HTML & CSS_20,,Web Fundamentals-HTML & CSS,2,Which attribute specifies an inline style?,class,style,id,"css
+",1
+Web Fundamentals-HTML & CSS_21,,Web Fundamentals-HTML & CSS,2,The correct HTML element for the main content is:,<section>,<main>,<body>,"<content>
+",1
+Web Fundamentals-HTML & CSS_22,,Web Fundamentals-HTML & CSS,2,CSS property used to set text color is:,font-color,text-color,color,"text-style
+",2
+Web Fundamentals-HTML & CSS_23,,Web Fundamentals-HTML & CSS,2,Which tag defines a checkbox?,<checkbox>,"<input type=""checkbox"">",<cb>,"<check>
+",1
+Web Fundamentals-HTML & CSS_24,,Web Fundamentals-HTML & CSS,2,The <th> tag represents:,Table Header,Table Row,Table Data,"Table Footer
+",0
+Web Fundamentals-HTML & CSS_25,,Web Fundamentals-HTML & CSS,2,"To apply the same style to multiple elements, we use a:",class,style,link,"sheet
+",0
+Web Fundamentals-HTML & CSS_26,,Web Fundamentals-HTML & CSS,2,The id attribute must be:,Unique,Repeated,Optional,"Case-insensitive
+",0
+Web Fundamentals-HTML & CSS_27,,Web Fundamentals-HTML & CSS,2,CSS property to change the font is:,font-family,font-type,font-face,"font-change
+",0
+Web Fundamentals-HTML & CSS_28,,Web Fundamentals-HTML & CSS,2,The <em> tag in HTML makes text:,Bold,Italic,Underlined,"Highlighted
+",1
+Web Fundamentals-HTML & CSS_29,,Web Fundamentals-HTML & CSS,2,The closing tag for <p> is:,<endp>,<paragraph>,</p>,"<p/>
+",2
+Web Fundamentals-HTML & CSS_30,,Web Fundamentals-HTML & CSS,2,Which CSS property adds space inside an element border?,margin,padding,gap,"border-space
+",1
+Web Fundamentals-HTML & CSS_31,,Web Fundamentals-HTML & CSS,3,"
+Which CSS selector targets an element with a specific id?",$idname,.idname,id(idname),"#idname
+",3
+Web Fundamentals-HTML & CSS_32,,Web Fundamentals-HTML & CSS,3,The universal selector in CSS is:,.,#,*,:,2
+Web Fundamentals-HTML & CSS_33,,Web Fundamentals-HTML & CSS,3,"To remove underlines from links, use:",decoration: 0;,text-decoration: none;,link-style: clear;,"underline: off;
+",1
+Web Fundamentals-HTML & CSS_34,,Web Fundamentals-HTML & CSS,3,The CSS property controlling outer spacing of an element is:,space,padding,border,"margin
+",3
+Web Fundamentals-HTML & CSS_35,,Web Fundamentals-HTML & CSS,3,Which tag defines a form?,<fieldset>,<input>,<form>,"<section>
+",2
+Web Fundamentals-HTML & CSS_36,,Web Fundamentals-HTML & CSS,3,To align text to the center:,text-style: center;,align: middle;,justify-content: center;,"text-align: center;
+",3
+Web Fundamentals-HTML & CSS_37,,Web Fundamentals-HTML & CSS,3,The correct HTML5 semantic tag for navigation links:,<nav>,<links>,<menu>,"<bar>
+",0
+Web Fundamentals-HTML & CSS_38,,Web Fundamentals-HTML & CSS,3,CSS property used to control text size is:,text-size,font-size,size-text,"text-font
+",1
+Web Fundamentals-HTML & CSS_39,,Web Fundamentals-HTML & CSS,3,To select all <p> elements inside a <div>:,div p,p div,div+p,"#div p
+",0
+Web Fundamentals-HTML & CSS_40,,Web Fundamentals-HTML & CSS,3,Which attribute in <form> specifies where to send form data?,target,action,method,"input
+",1
+Web Fundamentals-HTML & CSS_41,,Web Fundamentals-HTML & CSS,3,The default value of position property is:,static,relative,absolute,"fixed
+",0
+Web Fundamentals-HTML & CSS_42,,Web Fundamentals-HTML & CSS,3,CSS property to make corners rounded is:,radius,corner-shape,border-radius,"round-corner
+",2
+Web Fundamentals-HTML & CSS_43,,Web Fundamentals-HTML & CSS,3,The HTML element <video> requires which attribute to display controls?,panel,show,display,"controls
+",3
+Web Fundamentals-HTML & CSS_44,,Web Fundamentals-HTML & CSS,3,"To apply a style only when hovering over a link, use:",a:hover,a:click,a:active,"a:link
+",0
+Web Fundamentals-HTML & CSS_45,,Web Fundamentals-HTML & CSS,3,Which HTML tag defines a division or section?,<div>,<section>,<group>,"<block>
+",0
+Web Fundamentals-HTML & CSS_46,,Web Fundamentals-HTML & CSS,4,"
+ The CSS property used for flexible layouts is:",grid-template;,display: block;,float: left;,display: flex;,3
+Web Fundamentals-HTML & CSS_47,,Web Fundamentals-HTML & CSS,4,Media queries are used for:,Animation,Responsive design,Forms,"Navigation
+",1
+Web Fundamentals-HTML & CSS_48,,Web Fundamentals-HTML & CSS,4,To fix an element at the top of a page:,position: relative;,position: absolute;,position: top;,"position: fixed;
+",3
+Web Fundamentals-HTML & CSS_49,,Web Fundamentals-HTML & CSS,4,Which meta tag is essential for responsive pages?,<meta charset>,<meta viewport>,<meta theme>,"<meta device>
+",1
+Web Fundamentals-HTML & CSS_50,,Web Fundamentals-HTML & CSS,4,CSS Grid is defined using:,display: grid;,display: flex;,position: grid;,"grid: layout;
+",0
+Web Fundamentals-HTML & CSS_51,,Web Fundamentals-HTML & CSS,4,The z-index property controls:,Opacity,Font size,Zoom,"Stacking order
+",3
+Web Fundamentals-HTML & CSS_52,,Web Fundamentals-HTML & CSS,4,The CSS property to control transparency:,opacity,visibility,display,"transparent
+",0
+Web Fundamentals-HTML & CSS_53,,Web Fundamentals-HTML & CSS,4,To make an image responsive:,max-width: 100%;,height: auto;,width: auto;,"both A and B
+",3
+Web Fundamentals-HTML & CSS_54,,Web Fundamentals-HTML & CSS,4,Which CSS property changes the shape of the cursor?,mouse,pointer,cursor,"icon
+",2
+Web Fundamentals-HTML & CSS_55,,Web Fundamentals-HTML & CSS,4,The transition property is used for:,Smooth animation,Color change,Text decoration,"Static layout
+",0
+Web Fundamentals-HTML & CSS_56,,Web Fundamentals-HTML & CSS,4,Pseudo-class to style the first child element:,:firstElement,:first,:first-child,":first-line
+",2
+Web Fundamentals-HTML & CSS_57,,Web Fundamentals-HTML & CSS,4,Which unit is relative to the parent element’s font size?,cm,px,%,"em
+",3
+Web Fundamentals-HTML & CSS_58,,Web Fundamentals-HTML & CSS,4,Inline elements in HTML appear:,On new lines,Next to each other,Centered,"Hidden
+",1
+Web Fundamentals-HTML & CSS_59,,Web Fundamentals-HTML & CSS,4,Which CSS function is used to apply multiple fonts?,font-list,font-style,font-family,"text-font
+",2
+Web Fundamentals-HTML & CSS_60,,Web Fundamentals-HTML & CSS,4,Which property defines animation speed curve?,animation-mode,animation-delay,animation-speed,"animation-timing-
+function
+",3

@@ -1,0 +1,286 @@
+# CSV-File created with merge-csv.com
+# -----------------------------------------------------------
+
+﻿id,course,topic,level,question,option1,option2,option3,option4,answer_index
+os_linux -cybersecurtiy_1,,os_linux -cybersecurtiy,1,What is the primary purpose of an operating system?,To edit videos,To manage hardware and software resources,To connect to the internet,"To write code
+",1
+os_linux -cybersecurtiy_2,,os_linux -cybersecurtiy,1,Which of the following is NOT an operating system?,Linux,Windows,Google Chrome,"macOS
+",2
+os_linux -cybersecurtiy_3,,os_linux -cybersecurtiy,1,What does “OS” stand for?,Open Source,Operation System,Operating System,"Output Software
+",2
+os_linux -cybersecurtiy_4,,os_linux -cybersecurtiy,1,Linux is based on which of the following?,UNIX,Windows kernel,iOS,"Android
+",0
+os_linux -cybersecurtiy_5,,os_linux -cybersecurtiy,1,What is the symbol for the home directory in Linux?,/root,/home,~,"/usr
+",2
+os_linux -cybersecurtiy_6,,os_linux -cybersecurtiy,1,Which command lists files in a directory in Linux?,dir,list,show,"ls
+",3
+os_linux -cybersecurtiy_7,,os_linux -cybersecurtiy,1,Which key combination is used to stop a running process in Linux terminal?,Ctrl + C,Ctrl + P,Ctrl + Z,"Ctrl + X
+",0
+os_linux -cybersecurtiy_8,,os_linux -cybersecurtiy,1,What is the default shell in most Linux distributions?,PowerShell,Bash,Command Prompt,"Fish
+",1
+os_linux -cybersecurtiy_9,,os_linux -cybersecurtiy,1,Which command is used to print the current working directory?,pwd,dir,cd,"path
+",0
+os_linux -cybersecurtiy_10,,os_linux -cybersecurtiy,1,The file that stores user passwords in Linux is:,/etc/passwords,/usr/passwords,/etc/passwd,"/var/pass
+",2
+os_linux -cybersecurtiy_11,,os_linux -cybersecurtiy,1,Which command is used to create a new directory?,mkdir,newdir,createdir,"makedir
+",0
+os_linux -cybersecurtiy_12,,os_linux -cybersecurtiy,1,Which file permission means the file can be executed?,r,w,e,"x
+",3
+os_linux -cybersecurtiy_13,,os_linux -cybersecurtiy,1,The Linux command to shut down the system is:,stop,end,shutdown,"close
+",2
+os_linux -cybersecurtiy_14,,os_linux -cybersecurtiy,1,Which Linux directory stores system configuration files?,/etc,/sys,/home,"/usr
+",0
+os_linux -cybersecurtiy_15,,os_linux -cybersecurtiy,1,Who is the “superuser” in Linux?,admin,root,user1,"guest
+",1
+os_linux -cybersecurtiy_16,,os_linux -cybersecurtiy,2,Which command is used to view running processes?,ps,proc,tasklist,"listproc
+",0
+os_linux -cybersecurtiy_17,,os_linux -cybersecurtiy,2,What does the “chmod” command do?,Change user password,Change file permissions,Move files,"Display memory usage
+",1
+os_linux -cybersecurtiy_18,,os_linux -cybersecurtiy,2,Which command is used to switch users in Linux?,su,chuser,switch,"useradd
+",0
+os_linux -cybersecurtiy_19,,os_linux -cybersecurtiy,2,The “grep” command is used for:,File compression,Searching text patterns,Viewing disk usage,"Listing files
+",1
+os_linux -cybersecurtiy_20,,os_linux -cybersecurtiy,2,What does “pwd” stand for?,Pathway Directory,Password Data,Present Working Data,"Print Working Directory
+",3
+os_linux -cybersecurtiy_21,,os_linux -cybersecurtiy,2,Which command shows disk usage statistics?,du,diskinfo,df,"ls -d
+",2
+os_linux -cybersecurtiy_22,,os_linux -cybersecurtiy,2,The process ID (PID) in Linux uniquely identifies:,A directory,A file,A running process,A user,2
+os_linux -cybersecurtiy_23,,os_linux -cybersecurtiy,2,Which command shows the top resource-consuming processes?,usage,cpu,ps -a,"top
+",3
+os_linux -cybersecurtiy_24,,os_linux -cybersecurtiy,2,The default directory for user home folders is:,/root,/users,/home,"/etc
+",2
+os_linux -cybersecurtiy_25,,os_linux -cybersecurtiy,2,Which Linux command displays the contents of a file page by page?,cat,open,view,"less
+",3
+os_linux -cybersecurtiy_26,,os_linux -cybersecurtiy,2,The command sudo allows a user to:,Delete system files,Run commands as the superuser,Start GUI mode,"Install applications
+",1
+os_linux -cybersecurtiy_27,,os_linux -cybersecurtiy,2,Which directory typically contains system logs?,/etc,/usr,/var/log,/tmp,2
+os_linux -cybersecurtiy_28,,os_linux -cybersecurtiy,2,What does “kill -9 PID” do?,Pause the process,Stop the process immediately,Restart the process,"Monitor process usage
+",1
+os_linux -cybersecurtiy_29,,os_linux -cybersecurtiy,2,The “tar” command is used to:,Archive files,Remove files,Encrypt data,"Compile programs
+",0
+os_linux -cybersecurtiy_30,,os_linux -cybersecurtiy,2,The command whoami outputs:,Current working directory,System hostname,Current logged-in user,"Shell type
+",2
+os_linux -cybersecurtiy_31,,os_linux -cybersecurtiy,3,What does the /etc/hosts file store?,User credentials,IP–Hostname mappings,Log files,"Firewall rules
+",1
+os_linux -cybersecurtiy_32,,os_linux -cybersecurtiy,3,Which command checks network connectivity?,connect,ping,trace,"nettest
+",1
+os_linux -cybersecurtiy_33,,os_linux -cybersecurtiy,3,What is the default port for SSH?,20,21,22,"23
+",2
+os_linux -cybersecurtiy_34,,os_linux -cybersecurtiy,3,Which command is used to display network interface details?,ifconfig,netinfo,netstat,"lsnet
+",0
+os_linux -cybersecurtiy_35,,os_linux -cybersecurtiy,3,The file that stores user login information is:,/etc/login,/var/log/auth.log,/etc/shadow,"/home/login.log
+",2
+os_linux -cybersecurtiy_36,,os_linux -cybersecurtiy,3,Which Linux command is used to check open ports?,lsof -o,ports,sockinfo,"netstat -tuln
+",3
+os_linux -cybersecurtiy_37,,os_linux -cybersecurtiy,3,Which command helps you identify who is currently logged into the system?,who,userlist,loglist,"active
+",0
+os_linux -cybersecurtiy_38,,os_linux -cybersecurtiy,3,The “cron” service in Linux is used for:,Managing users,Scheduling tasks,Monitoring memory,"Installing software
+",1
+os_linux -cybersecurtiy_39,,os_linux -cybersecurtiy,3,The command “history” is used to:,List recent updates,View file changes,Show kernel logs,"Display previously executed commands
+",3
+os_linux -cybersecurtiy_40,,os_linux -cybersecurtiy,3,The “passwd” command allows a user to:,Change their password,Reset root password only,Add a new user,"Encrypt files
+",0
+os_linux -cybersecurtiy_41,,os_linux -cybersecurtiy,3,The root directory in Linux is represented by:,/root,/usr/root,~/,"/
+",3
+os_linux -cybersecurtiy_42,,os_linux -cybersecurtiy,3,Which file contains user group information?,/etc/passwd,/etc/shadow,/etc/group,"/etc/userinfo
+",2
+os_linux -cybersecurtiy_43,,os_linux -cybersecurtiy,3,The “sudo su” command does what?,Logs out the current user,Switches to the root user,Starts system update,"Changes shell mode
+",1
+os_linux -cybersecurtiy_44,,os_linux -cybersecurtiy,3,Which command is used to view current disk partitions?,fdisk -l,showdisk,listpart,"diskinfo
+",0
+os_linux -cybersecurtiy_45,,os_linux -cybersecurtiy,3,The “man” command is used to:,Monitor activity,Manage users,Mount drives,"Display manual pages for commands
+",3
+programming for cybersecurity_1,,programming for cybersecurity,1,Which of these is a valid Python variable name?,2name,my_name,my-name,my name,1
+programming for cybersecurity_2,,programming for cybersecurity,1,What is the output of print(5 + 3)?,8,53,5+3,Error,0
+programming for cybersecurity_3,,programming for cybersecurity,1,Which symbol is used for comments in Python?,//,/*,--,#,2
+programming for cybersecurity_4,,programming for cybersecurity,1,Which of these is a Python data type?,integer,float,string,All of the above,3
+programming for cybersecurity_5,,programming for cybersecurity,1,"What does len(""Hello"") return?",4,5,6,Error,1
+programming for cybersecurity_6,,programming for cybersecurity,1, Output of x = 10; print(x > 5)?,10,TRUE,FALSE,Error,1
+programming for cybersecurity_7,,programming for cybersecurity,1, Which operator is used for multiplication?,x,//,%,*,3
+programming for cybersecurity_8,,programming for cybersecurity,1, How do you define a Python function?,func myFunc():,function myFunc():,def myFunc():,myFunc():,2
+programming for cybersecurity_9,,programming for cybersecurity,1,Which is used to get input from user?,input(),scan(),get(),read(),0
+programming for cybersecurity_10,,programming for cybersecurity,1, Output of print(7 // 2)?,3.5,3,4,7,1
+programming for cybersecurity_11,,programming for cybersecurity,1,Which is used to check equality in Python?,=,==,!=,>,1
+programming for cybersecurity_12,,programming for cybersecurity,1,Which of these is a valid list?,"[1,2,3]","(1,2,3)","{1,2,3}","""1,2,3""",0
+programming for cybersecurity_13,,programming for cybersecurity,1,Which keyword is used to create a loop that executes a block multiple times?,loop,repeat,iterate,for,3
+programming for cybersecurity_14,,programming for cybersecurity,1,Which of the following is NOT a Python keyword?,if,else,goto,def,2
+programming for cybersecurity_15,,programming for cybersecurity,1,"Output of print(""Hello"" + ""World"")?",HelloWorld,Hello World,Hello+World,Error,0
+programming for cybersecurity_16,,programming for cybersecurity,2," Complete the code to print numbers 1 to 5:
+for i in ___:
+print(i)","range(1,6)",range(5),1 to 5,"[1,2,3,4,5]",0
+programming for cybersecurity_17,,programming for cybersecurity,2,"Fill in the blank to check if x is even:
+if x % 2 ___ 0:
+print(""Even"")",>=,=,!=,==,3
+programming for cybersecurity_18,,programming for cybersecurity,2,"Define a function that returns sum of a and b:
+def add(a,",":
+return ___",a + b,a - b,a * b D) a / b,0
+programming for cybersecurity_19,,programming for cybersecurity,2,"What prints?
+x = [1,2,3]
+print(x[1])",1,2,3,Error,1
+programming for cybersecurity_20,,programming for cybersecurity,2,": Loop through a list my_list:
+for item in ___:
+print(item)",item,list,my_list,None,2
+programming for cybersecurity_21,,programming for cybersecurity,2,"Check if number is positive:
+if num ___ 0:
+print(""Positive"")",!=,<,==,>,3
+programming for cybersecurity_22,,programming for cybersecurity,2," Add element 5 to a list numbers:
+numbers.___(5)",extend,add,insert,append,3
+programming for cybersecurity_23,,programming for cybersecurity,2,"Fill to repeat action 3 times:
+for i in ___:
+print(""Hi"")",range(3),1 to 3,"[1,2,3]",repeat(3),0
+programming for cybersecurity_24,,programming for cybersecurity,2,"Which of these slices first 3 elements?
+x = [10,20,30,40,50]
+print(x[___])",00:02,01:03,00:03,01:04,2
+programming for cybersecurity_25,,programming for cybersecurity,2," Complete to check if list is empty:
+if ___:
+print(""Empty"")",my_list != [],] my_list == [],my_list = [],my_list > [],1
+programming for cybersecurity_26,,programming for cybersecurity,2," Output of:
+x = ""Hello""
+print(x[0])",e,H,l,o,1
+programming for cybersecurity_27,,programming for cybersecurity,2,"Fill blank to get last element:
+print(x[___])",-1,0,1,len(x),0
+programming for cybersecurity_28,,programming for cybersecurity,2,"Check if a number is odd:
+if num % 2 ___ 1:
+print(""Odd"")",=,==,!=,>,1
+programming for cybersecurity_29,,programming for cybersecurity,2,"Multiply each element in list by 2:
+for i in ___:
+print(i*2)",my_list,list,i,range,0
+programming for cybersecurity_30,,programming for cybersecurity,2,"Combine strings a and b:
+print(a _ _ _)",*,  -,  +,/,2
+ComputerFundamentals_Prerequisite_1,,ComputerFundamentals_Prerequisite,1,: Which of the following is an input device?,Monitor,Keyboard,Printer,Speaker,1
+ComputerFundamentals_Prerequisite_2,,ComputerFundamentals_Prerequisite,1,: Which is the primary function of an operating system?,Manage hardware and software resources,Compile programs,Store files permanently,Browse the internet,0
+ComputerFundamentals_Prerequisite_3,,ComputerFundamentals_Prerequisite,1,: Which memory type is volatile?,ROM,RAM,Hard Disk,Flash,1
+ComputerFundamentals_Prerequisite_4,,ComputerFundamentals_Prerequisite,1,: Which of these is system software?,MS Word,Linux,Chrome Browser,Photoshop,1
+ComputerFundamentals_Prerequisite_5,,ComputerFundamentals_Prerequisite,1,: Which device connects multiple computers in a LAN?,Router,Switch,Hub,Modem,1
+ComputerFundamentals_Prerequisite_6,,ComputerFundamentals_Prerequisite,1,: Which of the following stores data permanently?,RAM,ROM,Cache,Registers,1
+ComputerFundamentals_Prerequisite_7,,ComputerFundamentals_Prerequisite,1,: Which unit is used to measure CPU speed?,Hertz,Byte,Bit,Ampere,0
+ComputerFundamentals_Prerequisite_8,,ComputerFundamentals_Prerequisite,1,: Which of the following is NOT an input device?,Mouse,Keyboard,Scanner,Monitor,3
+ComputerFundamentals_Prerequisite_9,,ComputerFundamentals_Prerequisite,1,: What does BIOS stand for?,Basic Input Output System,Binary Input Output System,Basic Internal Operating System,Binary Internal Output System,0
+ComputerFundamentals_Prerequisite_10,,ComputerFundamentals_Prerequisite,1,: Which number system is used by computers internally?,Decimal,Binary,Octal,Hexadecimal,1
+ComputerFundamentals_Prerequisite_11,,ComputerFundamentals_Prerequisite,1,: Which of the following is a storage device?,RAM,Hard Disk,CPU,GPU,1
+ComputerFundamentals_Prerequisite_12,,ComputerFundamentals_Prerequisite,1,: Which of these is a non-volatile memory?,RAM,ROM,Cache,Registers,1
+ComputerFundamentals_Prerequisite_13,,ComputerFundamentals_Prerequisite,1,: Which component performs arithmetic and logic operations?,CPU,RAM,Hard Disk,Motherboard,0
+ComputerFundamentals_Prerequisite_14,,ComputerFundamentals_Prerequisite,1,: Which of the following is used to connect computer to the internet?,Modem,Monitor,Keyboard,Printer,0
+ComputerFundamentals_Prerequisite_15,,ComputerFundamentals_Prerequisite,1,: Which of these is considered hardware?,Windows OS,MS Word,CPU,Chrome Browser,2
+ComputerFundamentals_Prerequisite_16,,ComputerFundamentals_Prerequisite,2,: What is the binary equivalent of decimal 10?,1010,1001,1110,1100,0
+ComputerFundamentals_Prerequisite_17,,ComputerFundamentals_Prerequisite,2,: Which part of CPU controls the flow of data?,ALU,Control Unit,Cache,Registers,1
+ComputerFundamentals_Prerequisite_18,,ComputerFundamentals_Prerequisite,2,: What is the main purpose of cache memory?,Store large files permanently,Speed up data access for CPU,Connect network devices,Handle input/output,1
+ComputerFundamentals_Prerequisite_19,,ComputerFundamentals_Prerequisite,2,: Which is an example of secondary memory?,RAM,ROM,Hard Disk,Cache,2
+ComputerFundamentals_Prerequisite_20,,ComputerFundamentals_Prerequisite,2,: Which of the following number systems is base-16?,Binary,Decimal,Hexadecimal,Octal,2
+ComputerFundamentals_Prerequisite_21,,ComputerFundamentals_Prerequisite,2,: Which component is considered the brain of the computer?,CPU,GPU,RAM,Motherboard,0
+ComputerFundamentals_Prerequisite_22,,ComputerFundamentals_Prerequisite,2,: Which memory is used for temporary storage while programs run?,ROM,RAM,Hard Disk,Cache,1
+ComputerFundamentals_Prerequisite_23,,ComputerFundamentals_Prerequisite,2,: What is the purpose of an interrupt in a computer system?,Pause CPU permanently,Signal CPU to handle a high-priority task,Delete files,Increase clock speed,1
+ComputerFundamentals_Prerequisite_24,,ComputerFundamentals_Prerequisite,2,: Which is NOT a type of computer software?,System software,Application software,Utility software,Motherboard,3
+ComputerFundamentals_Prerequisite_25,,ComputerFundamentals_Prerequisite,2,: Which unit of storage is largest?,Kilobyte,Megabyte,Gigabyte,Terabyte,3
+ComputerFundamentals_Prerequisite_26,,ComputerFundamentals_Prerequisite,2,: Which of the following stores BIOS settings?,ROM,RAM,Hard Disk,Cache,0
+ComputerFundamentals_Prerequisite_27,,ComputerFundamentals_Prerequisite,2,: Which logic gate outputs 1 only if both inputs are 1?,OR,AND,NOT,XOR,1
+ComputerFundamentals_Prerequisite_28,,ComputerFundamentals_Prerequisite,2,: What is the main difference between RAM and ROM?,"RAM is volatile, ROM is non-volatile",RAM is slower than ROM,"RAM is read-only, ROM is writable","RAM stores permanent data, ROM temporary",0
+ComputerFundamentals_Prerequisite_29,,ComputerFundamentals_Prerequisite,2,: Which of the following best defines a byte?,4 bits,8 bits,16 bits,32 bits,1
+ComputerFundamentals_Prerequisite_30,,ComputerFundamentals_Prerequisite,2,: Which device is used for long-term data backup?,RAM,Hard Disk,Floppy Disk,Cache,1
+infomation security (15 Questions)_1,,infomation security (15 Questions),1,What does “cybersecurity” mainly protect?,Cars,Computers and data,Food,Furniture,1
+infomation security (15 Questions)_2,,infomation security (15 Questions),1,What does the “C” in CIA Triad stand for?,Control,Confidentiality,Computer,Connection,1
+infomation security (15 Questions)_3,,infomation security (15 Questions),1,Which one is an example of a password?,12345678,abc,MyDog#2024,Hello,2
+infomation security (15 Questions)_4,,infomation security (15 Questions),1,What does “malware” mean?,Bad software,Safe software,Mobile app,Network,0
+infomation security (15 Questions)_5,,infomation security (15 Questions),1,What is used to lock your phone or computer?,Password or PIN,Wallpaper,Charger,Speaker,0
+infomation security (15 Questions)_6,,infomation security (15 Questions),1,Which of these is a strong password?,diya123,password,Diya@2025!,abc123,2
+infomation security (15 Questions)_7,,infomation security (15 Questions),1,What is a “virus” in computing?,A bug in hardware,Harmful software that spreads,A network cable,"A type of
+Wi-Fi",1
+infomation security (15 Questions)_8,,infomation security (15 Questions),1, What does “phishing” usually happen through?,Texts or emails,USB drive,Monitor,Printer,0
+infomation security (15 Questions)_9,,infomation security (15 Questions),1, Which one is NOT a cybersecurity threat?,Trojan,Ransomware,Worm,Firewall,3
+infomation security (15 Questions)_10,,infomation security (15 Questions),1,Why should you update your software?,For better wallpapers,To fix security issues,To slow down system,"For larger
+icons",1
+infomation security (15 Questions)_11,,infomation security (15 Questions),1,Which of these protects your computer from attacks?,Firewall,Printer,Headphones,USB,0
+infomation security (15 Questions)_12,,infomation security (15 Questions),1,What is “data”?,Information stored on a device,A game,A photo only,A password only,0
+infomation security (15 Questions)_13,,infomation security (15 Questions),1,What is the main aim of cybersecurity?,To decorate computers,To increase internet speed,To delete data,"To protect
+systems and data",3
+infomation security (15 Questions)_14,,infomation security (15 Questions),1,Which of the following is an example of personal information?,Favourite color,Date of birth,Pet’s name,Movie name,1
+infomation security (15 Questions)_15,,infomation security (15 Questions),1,"If a website starts with “https://”, it means:",It’s slow,It is not working,The site is secure,It’s fake,2
+infomation security (15 Questions)_16,,infomation security (15 Questions),2,What should you do if you get an email asking for your password?,Share it immediately,Ignore or report it,Reply politely,Save it in drafts,1
+infomation security (15 Questions)_17,,infomation security (15 Questions),2,What is a firewall mainly used for?,Controlling network traffic,Playing games,Sending emails,Printing documents,0
+infomation security (15 Questions)_18,,infomation security (15 Questions),2,Which one helps identify you online?,Printer,IP address,Screenshot,Mouse,1
+infomation security (15 Questions)_19,,infomation security (15 Questions),2,What is the main goal of encryption?,To hide information,To delete files,To make files bigger,To connect Wi-Fi,0
+infomation security (15 Questions)_20,,infomation security (15 Questions),2,What should you do when using public Wi-Fi?,Avoid opening bank sites,Share passwords,Disable antivirus,"Download
+anything",0
+infomation security (15 Questions)_21,,infomation security (15 Questions),2,What is a good practice for creating passwords?,Use simple words,"Use a mix of letters, numbers, and symbols",Use your name,Use “password”,1
+infomation security (15 Questions)_22,,infomation security (15 Questions),2,Which of the following helps you log in securely?,Two-step verification,Writing passwords on paper,Sharing passwords,"Skipping
+login",0
+infomation security (15 Questions)_23,,infomation security (15 Questions),2,What is the main job of antivirus software?,Manage passwords,Block websites,Detect and remove harmful software,"Play
+videos",2
+infomation security (15 Questions)_24,,infomation security (15 Questions),2,Why should you not click unknown links?,They show ads,They load slowly,They need a password,"They may contain
+malware",3
+infomation security (15 Questions)_25,,infomation security (15 Questions),2,What is “backing up data”?,Formatting drives,Deleting old data,Encrypting data,"Copying data to another
+location",3
+infomation security (15 Questions)_26,,infomation security (15 Questions),2,What does the “I” in CIA Triad stand for?,Integrity,Internet,Internal,Identity,0
+infomation security (15 Questions)_27,,infomation security (15 Questions),2,Which one of these is a cyberattack?,Saving a file,DDoS,Watching videos,Copying text,1
+infomation security (15 Questions)_28,,infomation security (15 Questions),2,Which of these is a secure way to share files?,Through a trusted email or cloud,Posting on social media,Public USB drives,Unverified websites,0
+infomation security (15 Questions)_29,,infomation security (15 Questions),2, What should you do before downloading an app?,Check permissions and reviews,Download from anywhere,"Use pirated
+versions",Skip login,0
+infomation security (15 Questions)_30,,infomation security (15 Questions),2,What helps protect your data on a stolen phone?,Game apps,Bigger battery,Screen lock and encryption,Faster Wi-Fi,2
+infomation security (15 Questions)_31,,infomation security (15 Questions),3,You receive a message saying you won a prize but must click a link. What should you do?,Click immediately,Ignore or report it,Share it with friends,Fill in your details,1
+infomation security (15 Questions)_32,,infomation security (15 Questions),3, Your friend’s account sends you a suspicious link. What might have happened?,They changed phones,Their account got hacked,It’s a new feature,"It’s
+harmless",1
+infomation security (15 Questions)_33,,infomation security (15 Questions),3, Your laptop asks to install an update. What’s the best choice?,Install updates,Ignore forever,Disconnect from Wi-Fi,Delete all files,0
+infomation security (15 Questions)_34,,infomation security (15 Questions),3,"If your computer suddenly runs slowly, what could be the reason?",New wallpaper,Clean system,Malware infection,Extra RAM,2
+infomation security (15 Questions)_35,,infomation security (15 Questions),3,Why should you log out after using a public computer?,To delete,To clear cookies,To change wallpaper,"To delete To keep your
+account safefiles",3
+infomation security (15 Questions)_36,,infomation security (15 Questions),3, What should you do if your password is exposed?,Change it immediately,Ignore it,Share with admin,Keep using it,0
+infomation security (15 Questions)_37,,infomation security (15 Questions),3,Which file attachment type could be risky?,.exe,.jpg,.txt,.pdf,0
+infomation security (15 Questions)_38,,infomation security (15 Questions),3,What is the best way to keep your data safe online?,Use strong passwords,Post personal info,Click random links,Disable antivirus,0
+infomation security (15 Questions)_39,,infomation security (15 Questions),3,A popup says your computer is infected — “Click to fix.” What should you do?,Reboot quickly,Click it immediately,Close it and run real antivirus,"Disconnect
+Wi-Fi",2
+infomation security (15 Questions)_40,,infomation security (15 Questions),3,"If you forget your password, what’s a safe way to recover access?",Use “Forgot Password” option,Ask friends,Search on Google,"Guess
+repeatedly",0
+infomation security (15 Questions)_41,,infomation security (15 Questions),3,Your school wants you to submit files securely. You should use:,WhatsApp group,Official portal or email,Random site,USB from others,1
+infomation security (15 Questions)_42,,infomation security (15 Questions),3,Which is the safest action when installing new apps?,Download from official stores,Click pop-up links,Use pirated versions,"Skip
+permissions",0
+infomation security (15 Questions)_43,,infomation security (15 Questions),3, Why should you use antivirus updates?,For sound effects,For faster charging,To change themes,To detect new viruses,3
+infomation security (15 Questions)_44,,infomation security (15 Questions),3," If you suspect hacking, what should you do first?",Change passwords and inform admin,Ignore it,Reboot,Log out only,0
+infomation security (15 Questions)_45,,infomation security (15 Questions),3,Which of these is part of good cyber hygiene?,Using same password,Ignoring warnings,"Regular updates and backups
+everywhere",Sharing login info,2
+Networking_Prerequisite_1,,Networking_Prerequisite,1,Which device connects multiple devices within the same network?,Router,Switch,Modem,Hub,1
+Networking_Prerequisite_2,,Networking_Prerequisite,1,What does IP stand for?,Internet Protocol,Internal Path,Interface Point,Internet Process,0
+Networking_Prerequisite_3,,Networking_Prerequisite,1,Which protocol is used to send emails?,HTTP,SMTP,FTP,DNS,1
+Networking_Prerequisite_4,,Networking_Prerequisite,1,Which type of IP address is visible to the internet?,Private IP,Public IP,Loopback IP,Reserved IP,1
+Networking_Prerequisite_5,,Networking_Prerequisite,1,Which device converts digital signals to analog?,Router,Modem,Switch,Hub,1
+Networking_Prerequisite_6,,Networking_Prerequisite,1,Which protocol is used to get an IP address automatically?,DNS,DHCP,HTTP,FTP,1
+Networking_Prerequisite_7,,Networking_Prerequisite,1,Which layer of OSI handles physical transmission of data?,Data Link,Network,Physical,Transport,2
+Networking_Prerequisite_8,,Networking_Prerequisite,1,Which device filters traffic between different networks?,Hub,Switch,Router,Repeater,2
+Networking_Prerequisite_9,,Networking_Prerequisite,1,Scenario: You cannot access a website. Ping works. What is likely the problem?,DNS failure,Router failure,Cable unplugged,Firewall disabled,0
+Networking_Prerequisite_10,,Networking_Prerequisite,1,Which protocol is used for secure web communication?,HTTP,HTTPS,FTP,Telnet,1
+Networking_Prerequisite_11,,Networking_Prerequisite,1, Which of the following is a network topology?,Star,Circular,Linear,Layered,0
+Networking_Prerequisite_12,,Networking_Prerequisite,1,What does LAN stand for?,Local Area Network,Large Area Network,Light Access Node,Local Access Node,0
+Networking_Prerequisite_13,,Networking_Prerequisite,1,Which command shows your IP configuration in Windows?,ipconfig,ping,tracert,netstat,0
+Networking_Prerequisite_14,,Networking_Prerequisite,1,Which type of cable is commonly used for Ethernet connections?,Coaxial,Twisted Pair,Fiber Optic,HDMI,1
+Networking_Prerequisite_15,,Networking_Prerequisite,1,"Scenario: Devices in the same LAN cannot communicate. Which device should you check
+first?",Router,Switch,Modem,Access Point,1
+Networking_Prerequisite_16,,Networking_Prerequisite,2,Which OSI layer is responsible for routing?,Network,Data Link,Transport,Session,0
+Networking_Prerequisite_17,,Networking_Prerequisite,2,Which protocol translates domain names to IP addresses?,DNS,DHCP,HTTP,FTP,0
+Networking_Prerequisite_18,,Networking_Prerequisite,2,Which command traces the route taken by packets?,ping,tracert,ipconfig,netstat,1
+Networking_Prerequisite_19,,Networking_Prerequisite,2,Scenario: You can reach an IP address but not its domain name. What is likely wrong?,DNS issue,Router issue,Cable unplugged,Firewall issue,0
+Networking_Prerequisite_20,,Networking_Prerequisite,2,Which protocol provides connection-oriented communication?,TCP,UDP,ICMP,HTTP,0
+Networking_Prerequisite_21,,Networking_Prerequisite,2,Which port does HTTPS use by default?,80,21,22,443,3
+Networking_Prerequisite_22,,Networking_Prerequisite,2,"Scenario: Packets are being dropped intermittently. Which tool can you use to analyze network
+traffic?",Wireshark,Notepad,MS Word,Paint,0
+Networking_Prerequisite_23,,Networking_Prerequisite,2,What is the main purpose of a VLAN?,Separate broadcast domains,Increase bandwidth,Encrypt data,Filter viruses,0
+Networking_Prerequisite_24,,Networking_Prerequisite,2,Which IP class is typically used for large networks?,Class A,Class B,Class C,Class D,0
+Networking_Prerequisite_25,,Networking_Prerequisite,2,Which subnet mask allows 254 hosts per subnet?,255.255.255.0,255.255.0.0,255.0.0.0,255.255.255.128,0
+Networking_Prerequisite_26,,Networking_Prerequisite,2,Which layer provides logical addressing in TCP/IP?,Application,Transport,Internet,Link,2
+Networking_Prerequisite_27,,Networking_Prerequisite,2,Scenario: Two computers cannot ping each other. They are in same subnet. Likely issue?,Firewall blocking ICMP,Router failure,DNS failure,DHCP failure,0
+Networking_Prerequisite_28,,Networking_Prerequisite,2, Which of the following is a connectionless protocol?,TCP,UDP,FTP,SSH,1
+Networking_Prerequisite_29,,Networking_Prerequisite,2,Which command shows open network connections?,netstat,ipconfig,tracert,ping,0
+Networking_Prerequisite_30,,Networking_Prerequisite,2,Which device reduces collision domains?,Hub,Switch,Router,Repeater,1
+Networking_Prerequisite_31,,Networking_Prerequisite,3,Scenario: You need to divide a network into smaller subnets. Which technique is used?,Subnetting,DHCP,DNS,Port forwarding,0
+Networking_Prerequisite_32,,Networking_Prerequisite,3,Which protocol secures email transmission?,SMTP,IMAP,POP3,SMTPS,3
+Networking_Prerequisite_33,,Networking_Prerequisite,3,Which type of NAT allows multiple devices to share one public IP?,Static NAT,Dynamic NAT,PAT,NAT66,2
+Networking_Prerequisite_34,,Networking_Prerequisite,3,Scenario: A broadcast storm is affecting network performance. What is a possible solution?,Implement VLANs,Use a hub,Disable routing,Increase DHCP leases,0
+Networking_Prerequisite_35,,Networking_Prerequisite,3,Which port is used by SSH?,21,22,23,25,1
+Networking_Prerequisite_36,,Networking_Prerequisite,3,Which protocol is used for network time synchronization?,NTP,DNS,SMTP,FTP,0
+Networking_Prerequisite_37,,Networking_Prerequisite,3,Which type of attack involves intercepting traffic between sender and receiver?,Phishing,Man-in-the-Middle,DDoS,ARP Poisoning,1
+Networking_Prerequisite_38,,Networking_Prerequisite,3,Which topology reduces single point of failure and is scalable?,Star,Mesh,Bus,Ring,1
+Networking_Prerequisite_39,,Networking_Prerequisite,3,Scenario: Two VLANs cannot communicate. Which device can connect them?,Router,Hub,Switch,Repeater,0
+Networking_Prerequisite_40,,Networking_Prerequisite,3,Which protocol prevents IP spoofing?,IPSec,SMTP,DNS,FTP,0
+Networking_Prerequisite_41,,Networking_Prerequisite,3,Which command in Linux shows routing table?,route -n,ifconfig,ping,traceroute,0
+Networking_Prerequisite_42,,Networking_Prerequisite,3,Scenario: You notice unusual traffic patterns. Which tool can help identify malicious activity?,Wireshark,Notepad,Paint,MS Word,0
+Networking_Prerequisite_43,,Networking_Prerequisite,3,Which layer of OSI handles error detection and framing?,Data Link,Network,Transport,Physical,0
+Networking_Prerequisite_44,,Networking_Prerequisite,3,Which wireless security protocol is considered most secure?,WEP,WPA,WPA2,WPA,2
+Networking_Prerequisite_45,,Networking_Prerequisite,3,Scenario: A network device blocks unauthorized access. What is this an example of?,Firewall,Switch,Hub,Router,0
